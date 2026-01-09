@@ -1,113 +1,72 @@
 # Case 000 – SOC Laboratory Environment Setup
-Objective
 
+## Objective
 The purpose of this case is to document the creation of my personal SOC laboratory environment, which will be used to perform all future incident analysis cases in this portfolio.
-
 This environment simulates a basic SOC investigation infrastructure using virtualization and security tools.
 
-Environment Scope
-
+## Environment Scope
 This laboratory is designed to support:
-
 Log analysis
-
 Network traffic inspection
-
 Malware investigation
-
 Incident response practice
-
 SOC workflow simulation
 
-Virtualization Platform
-
+## Virtualization Platform
 Virtualization software: Oracle VirtualBox 7.0.14
-
 Extension Pack: Installed
-
 Host operating system: Windows
-
 Virtualization purpose: Cybersecurity laboratory environment
 
 Virtual Machines
-VM Name	OS	Role
-Ubuntu Analyst	Ubuntu 24.04.3 LTS	Security analysis workstation
-Network Configuration
+| VM Name        | Operating System   | Role                          |
+| -------------- | ------------------ | ----------------------------- |
+| Ubuntu Analyst | Ubuntu 24.04.3 LTS | Security analysis workstation |
 
+## Network Configuration
 Network mode: NAT
 
-Purpose:
-
+### Purpose:
 Internet access enabled
-
 Isolation from local network
-
 Safe laboratory environment
 
-System User
-
+## System User
 Full name: Ricardo Barboza Diaz
-
 Linux user account: (write your exact username here)
 
-Hostname format:
+## Terminal format:
+ricardobarbozadiaz@ubuntu-analyst:~$
 
-user@ubuntu-analyst:~$
-
-Guest Additions
-
+## Guest Additions
 Status: Installed and operational.
 
-Enabled features:
-
+### Enabled features:
 Improved resolution
-
 Mouse integration
-
 Graphics optimization
 
-Tools Installed
+# Tools Installed
 
-Currently installed:
-
+## Currently installed
 Bash terminal
-
 APT package manager
 
-Pending installation:
-
+# Pending installation
 Nmap
-
 Wireshark
-
 Net-tools
-
 Curl
-
 Wget
-
 Metasploit
-
 Burp Suite
 
-Learning Objectives
-
-Understand SOC laboratory architecture
-
-Practice controlled incident simulation
-
-Develop technical documentation discipline
-
-Build investigation methodology
-
-Professional Purpose
-
+## Learning Objectives
 This laboratory supports my development as a Junior SOC Analyst, allowing me to practice real-world security analysis techniques in a controlled environment.
 
-Status
-
+## Status
 Environment initialization phase completed successfully.
 
-Professional Level
-
+## Professional Level
 Junior SOC Analyst – Laboratory Environment Setup Completed
+
