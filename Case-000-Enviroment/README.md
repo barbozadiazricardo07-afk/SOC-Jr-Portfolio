@@ -1,64 +1,113 @@
-# Case 000 – SOC Laboratory Environment Setup
-
-## Objective
+Case 000 – SOC Laboratory Environment Setup
+Objective
 
 The purpose of this case is to document the creation of my personal SOC laboratory environment, which will be used to perform all future incident analysis cases in this portfolio.
 
 This environment simulates a basic SOC investigation infrastructure using virtualization and security tools.
 
----
-
-## Environment Scope
+Environment Scope
 
 This laboratory is designed to support:
 
-- Log analysis
-- Network traffic inspection
-- Malware investigation
-- Incident response practice
-- SOC workflow simulation
+Log analysis
 
----
+Network traffic inspection
 
-## Virtualization Platform
+Malware investigation
 
-- Virtualization software: VirtualBox
-- Host operating system: [To be documented]
-- Hardware resources: [To be documented]
+Incident response practice
 
----
+SOC workflow simulation
 
-## Virtual Machines
+Virtualization Platform
 
-| VM Name | OS | Role |
-|------|------|------|
-| | | |
-| | | |
-| | | |
+Virtualization software: Oracle VirtualBox 7.0.14
 
----
+Extension Pack: Installed
 
-## Network Configuration
+Host operating system: Windows
 
-(To be documented)
+Virtualization purpose: Cybersecurity laboratory environment
 
----
+Virtual Machines
+VM Name	OS	Role
+Ubuntu Analyst	Ubuntu 24.04.3 LTS	Security analysis workstation
+Network Configuration
 
-## Tools Installed
+Network mode: NAT
 
-(To be documented)
+Purpose:
 
----
+Internet access enabled
 
-## Learning Objectives
+Isolation from local network
 
-- Understand SOC laboratory architecture
-- Practice controlled incident simulation
-- Develop technical documentation discipline
-- Build investigation methodology
+Safe laboratory environment
 
----
+System User
 
-## Status
+Full name: Ricardo Barboza Diaz
 
-Environment initialization phase.
+Linux user account: (write your exact username here)
+
+Hostname format:
+
+user@ubuntu-analyst:~$
+
+Guest Additions
+
+Status: Installed and operational.
+
+Enabled features:
+
+Improved resolution
+
+Mouse integration
+
+Graphics optimization
+
+Tools Installed
+
+Currently installed:
+
+Bash terminal
+
+APT package manager
+
+Pending installation:
+
+Nmap
+
+Wireshark
+
+Net-tools
+
+Curl
+
+Wget
+
+Metasploit
+
+Burp Suite
+
+Learning Objectives
+
+Understand SOC laboratory architecture
+
+Practice controlled incident simulation
+
+Develop technical documentation discipline
+
+Build investigation methodology
+
+Professional Purpose
+
+This laboratory supports my development as a Junior SOC Analyst, allowing me to practice real-world security analysis techniques in a controlled environment.
+
+Status
+
+Environment initialization phase completed successfully.
+
+Professional Level
+
+Junior SOC Analyst – Laboratory Environment Setup Completed
