@@ -1,4 +1,4 @@
-·Case 000 – SOC Laboratory Environment Setup
+# Case 000 – SOC Laboratory Environment Setup
 Objective
 
 The purpose of this case is to document the creation of my personal SOC laboratory environment, which will be used to perform all future incident analysis cases in this portfolio.
