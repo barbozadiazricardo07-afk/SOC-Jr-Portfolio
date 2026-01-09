@@ -1,7 +1,7 @@
 # SOC-Jr-Portfolio
 SOC Junior cybersecurity analysis portfolio
 
-# SOC Junior Portfolio – Ricardo Barbosa
+# SOC Junior Portfolio – Ricardo Barboza Diaz
 
 This repository documents my practical training and development path toward a SOC Analyst Junior role.  
 It contains structured incident cases, environment setup, technical notes, and operational playbooks aligned with real SOC workflows.
@@ -31,7 +31,7 @@ It contains structured incident cases, environment setup, technical notes, and o
 
 ## Author
 
-Ricardo Barbosa  
+Ricardo Barboza Diaz 
 SOC Analyst Junior – Training Portfolio  
 Mexico
 
