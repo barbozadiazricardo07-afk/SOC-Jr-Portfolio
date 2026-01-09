@@ -18,7 +18,7 @@ Extension Pack: Installed
 Host operating system: Windows
 Virtualization purpose: Cybersecurity laboratory environment
 
-Virtual Machines
+# Virtual Machines
 | VM Name        | Operating System   | Role                          |
 | -------------- | ------------------ | ----------------------------- |
 | Ubuntu Analyst | Ubuntu 24.04.3 LTS | Security analysis workstation |
